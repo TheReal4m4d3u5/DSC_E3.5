@@ -11,3 +11,8 @@ Write SQL queries to do the following:
 a. Display the grade for each student based on the marks relation.
 
 b. Find the number of students with each grade.
+
+
+
+
+![alt text](image.png)
