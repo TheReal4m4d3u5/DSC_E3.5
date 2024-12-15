@@ -16,3 +16,5 @@ b. Find the number of students with each grade.
 
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
