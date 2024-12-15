@@ -16,7 +16,6 @@ SELECT * FROM marks;
 
 
 -- a. Display the grade for each student based on the marks relation.
-
 SELECT 
     ID,
     score,
@@ -30,8 +29,6 @@ FROM marks;
 
 
 -- b. Find the number of students with each grade.
-
-
 SELECT 
     CASE
         WHEN score < 40 THEN 'F'
